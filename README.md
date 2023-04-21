@@ -1,4 +1,4 @@
 # mercury
 
 ## Description
-Spring Starter Project
+Spring Boot Starter Project
